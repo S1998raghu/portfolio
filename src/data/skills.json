@@ -1,0 +1,58 @@
+[
+  {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.jpg"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/SQL.jpg"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kube.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/AWS.png"
+  },
+  {
+    "title": "REST API",
+    "imageSrc": "skills/Rest.jpeg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  }, 
+  {
+    "title": "Scrapy",
+    "imageSrc": "skills/scrapy.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "ETL",
+    "imageSrc": "skills/ETL.png"
+  }
+]

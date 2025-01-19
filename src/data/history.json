@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Software developer",
+    "organisation": "Tikr Media",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "experiences": ["The only devops engineer in the team. Migration of the multiple golang application to AWS. Working on building a CI/CD pipeline."],
+    "imageSrc": "history/tikr.png"
+  },
+    {
+      "role": "Research Student developer",
+      "organisation": "USC Price School",
+      "startDate": "May, 2024",
+      "endDate": "Present",
+      "experiences": [" Scraping data from gofundme to analyse types of medical campaigns and causes. Working on publishing a paper on the same."],
+      "imageSrc": "history/Price.png"
+    },
+    {
+      "role": "Associate Software Engineer",
+      "organisation": "Collins Aerospace",
+      "startDate": "Sept, 2020",
+      "endDate": "Nov, 2022",
+      "experiences": ["Optimised datawarehousing system", "Integrated 100+ client into the system","Saved over 2000 manual hours"],
+      "imageSrc": "history/Collins.png"
+    },
+    {
+      "role": "Digital Intern",
+      "organisation": "Collins Aerospace",
+      "startDate": "Jan, 2020",
+      "endDate": "Sept, 2020",
+      "experiences": [
+        "Built bleed air switch notification system",
+        "Collaborated in building an inhouse intrusion detection system using KNN clustering"
+      ],
+      "imageSrc": "history/Collins.png"
+    }
+  ]

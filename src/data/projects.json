@@ -1,0 +1,22 @@
+[{
+    "title":"Ebay search site",
+    "description":"Searching and retrieving products from Ebay API",
+    "skills":["Angular", "Node", "GCP","REST API"]
+
+
+},
+{
+    "title":"Vector Database implementation",   
+    "description":"Based on a keyword, generate possible terms related to it from a json file",
+    "skills":["Docker", "Python", "Weaviate- VectorDB"]
+    
+
+
+},
+{
+    "title":"Smart India Hackathon - rural health",    
+    "description":"An interface for data collection regarding medical/healthcare systems in rural areas",
+    "skills":["MongoDB", "React", "Node"]
+   
+}
+]
